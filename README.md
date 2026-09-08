@@ -13,6 +13,7 @@ Shopping Cart App is a Swift-based iOS e-commerce application that provides a co
 🔥 Firebase integration
 ☁️ Cloud-based data storage
 📱 Native iOS interface
+
 🔄 Application Process
 
 Browse Products → Select Product → Add to Cart → Adjust Quantity → Review Cart → Checkout → Save Order → View Order History
@@ -40,6 +41,7 @@ Firebase – Cloud data storage and management
 iOS SDK – Native iOS functionality
 Shopping Cart – Cart and quantity management
 Order Management – Checkout and order history
+
 🎯 Project Purpose
 
 This project demonstrates how to build a practical e-commerce application using Swift and Firebase, covering important shopping workflows such as cart management, favorites, checkout, and order history while working with cloud-based application data.
